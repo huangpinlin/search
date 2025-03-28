@@ -1,7 +1,7 @@
 # 代码搜索服务
 
 一个基于Next.js构建的代码搜索应用，支持在GitHub和GitLab上搜索代码片段。提供统一的搜索接口和结果格式，让代码搜索更加便捷高效。
-
+（若使用请删除.env和.env.example的TOKEN后的hpl）
 ## 功能特性
 
 - 多平台支持：同时支持GitHub和GitLab代码搜索
